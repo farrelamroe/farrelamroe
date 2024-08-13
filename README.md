@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/farrel-amroe-azhari-8b14b5217/overlay/background-image/" alt="my banner">
+<img src="Blue Modern Corporate Staff Profile LinkedIn Banner (1).png" alt="my banner">
 
 <h2 align="center">Hi there, I'm Farrel 👋 <br>I'm a Fullstack Developer 💻!</h2>
 
