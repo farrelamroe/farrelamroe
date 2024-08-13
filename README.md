@@ -1,4 +1,4 @@
-<img src="[https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png](https://www.linkedin.com/in/farrel-amroe-azhari-8b14b5217/overlay/background-image/)" alt="my banner">
+<img src="https://www.linkedin.com/in/farrel-amroe-azhari-8b14b5217/overlay/background-image/" alt="my banner">
 
 <h2 align="center">Hi there, I'm Farrel 👋 <br>I'm a Fullstack Developer 💻!</h2>
 
