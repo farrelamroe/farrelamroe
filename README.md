@@ -1,4 +1,4 @@
-<img src="https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png" alt="my banner">
+<img src="[https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png](https://www.linkedin.com/in/farrel-amroe-azhari-8b14b5217/overlay/background-image/)" alt="my banner">
 
 <h2 align="center">Hi there, I'm Farrel 👋 <br>I'm a Fullstack Developer 💻!</h2>
 
@@ -25,10 +25,10 @@ Experienced Talent with a demonstrated history of working in the education manag
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NextJS](https://img.shields.io/badge/nextjs-%23430098.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![C++](https://img.shields.io/badge/C++-17-blue)
-![Dart](https://img.shields.io/badge/Dart-2.10-blue)
-![Flutter](https://img.shields.io/badge/Flutter-2.5-blue)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 </br>
 
@@ -36,12 +36,11 @@ Experienced Talent with a demonstrated history of working in the education manag
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%230081CB.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Go](https://img.shields.io/badge/Go-1.16-blue)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Java](https://img.shields.io/badge/Java-17-orange)
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Vue.js](https://img.shields.io/badge/Vue.js-3.0-green)
-![Sass](https://img.shields.io/badge/Sass-1.32.8-pink)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 </br>
 
@@ -54,6 +53,6 @@ Experienced Talent with a demonstrated history of working in the education manag
 
 ## 📈 GitHub Stats 
 
-![Farrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsiip&show_icons=true&theme=tokyonight)
+![Farrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrelamroe&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsiip&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrelamroe&=compact&theme=tokyonight)
