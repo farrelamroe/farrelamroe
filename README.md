@@ -1,6 +1,6 @@
 <img src="Blue Modern Corporate Staff Profile LinkedIn Banner (1).png" alt="my banner">
 
-<h2 align="center">Hi there, I'm Farrel 👋 <br>I'm a Fullstack Developer 💻!</h2>
+<h2 align="center">Hi there, I'm Farrel 👋 <br>I'm a Software Engineer 💻!</h2>
 
 Experienced Talent with a demonstrated history of working in the education management industry. Skilled in Mathematics, English, Microsoft Excel, Engineering, and HTML. Strong human resources professional with a Faculty of Mathematics and Natural Science. focused in Computer Science from Universitas Gadjah Mada (UGM).
 
