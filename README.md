@@ -1,4 +1,4 @@
-<img src="Blue Modern Corporate Staff Profile LinkedIn Banner (1).png" alt="my banner">
+<img src="Farrel amroe a..png" alt="my banner">
 
 <h2 align="center">Hi there, I'm Farrel 👋 <br>I'm a Software Engineer 💻!</h2>
 
